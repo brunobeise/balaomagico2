@@ -30,6 +30,7 @@ body {
     height: auto;
     padding: 0px;
     margin: auto;
+    overflow-x: hidden;
 }
 
 nav {
